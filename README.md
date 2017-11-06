@@ -1,2 +1,2 @@
 # data-analysis
-jupyter notebooks on data analysis
+jupyter notebooks on data analysis with using pandas
